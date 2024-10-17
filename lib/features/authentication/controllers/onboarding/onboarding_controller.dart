@@ -32,3 +32,5 @@ class OnBoardingController extends GetxController {
     pageController.jumpToPage(2);
   }
 }
+
+# touched on 2025-05-28T22:56:27.940985Z
