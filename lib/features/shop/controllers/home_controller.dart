@@ -3,3 +3,5 @@ import 'package:get/get.dart';
 class HomeController extends GetxController {
   static HomeController get instance => Get.find();
 }
+
+# touched on 2025-05-28T22:56:50.921713Z
