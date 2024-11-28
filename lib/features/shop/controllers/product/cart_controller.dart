@@ -233,3 +233,5 @@ class CartController extends GetxController {
         cartQuantity > 0 ? cartQuantity : 1; // Ensures a default of 1
   }
 }
+
+# touched on 2025-05-28T23:02:17.931627Z
