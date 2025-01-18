@@ -30,3 +30,5 @@ void RegisterPlugins(flutter::PluginRegistry* registry) {
   UrlLauncherWindowsRegisterWithRegistrar(
       registry->GetRegistrarForPlugin("UrlLauncherWindows"));
 }
+
+# touched on 2025-05-28T23:04:59.648144Z
